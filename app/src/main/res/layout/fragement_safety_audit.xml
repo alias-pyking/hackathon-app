@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     android:background="#F6F8FA">
 <RelativeLayout
+    android:visibility="gone"
     android:id="@+id/addRatingView"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -100,4 +101,124 @@
         android:text="Submit" />
 
 </RelativeLayout>
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        />
+    <RelativeLayout
+        android:id="@+id/ratingView"
+        android:visibility="visible"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="Ratings"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:id="@+id/security_text_view"
+            android:layout_width="92dp"
+            android:layout_height="31dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="52dp"
+            android:text="Security" />
+
+        <RatingBar
+            android:isIndicator="true"
+            android:id="@+id/transportRating1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="374dp" />
+
+        <TextView
+            android:id="@+id/walk_text_view"
+            android:layout_width="92dp"
+            android:layout_height="31dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="460dp"
+            android:text="Walk Path" />
+
+        <TextView
+            android:id="@+id/transport_text_view"
+            android:layout_width="92dp"
+            android:layout_height="31dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="19dp"
+            android:layout_marginTop="320dp"
+            android:text="Transport" />
+
+        <TextView
+            android:id="@+id/lights_text_view"
+            android:layout_width="92dp"
+            android:layout_height="31dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="19dp"
+            android:layout_marginTop="178dp"
+            android:text="Lights" />
+
+        <RatingBar
+            android:isIndicator="true"
+            android:id="@+id/walkRating1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="505dp" />
+
+        <RatingBar
+            android:isIndicator="true"
+            android:id="@+id/lightRating1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="234dp" />
+
+        <RatingBar
+            android:isIndicator="true"
+            android:id="@+id/securityRating1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="84dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="19dp"
+            android:layout_marginBottom="101dp"
+            android:padding="16dp"
+            android:textStyle="bold"
+            android:text="Total users rated this Place " />
+
+        <TextView
+            android:id="@+id/total_users_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="145dp"
+            android:layout_marginBottom="101dp"
+            android:padding="16dp"
+            android:textStyle="bold"
+            android:text="0" />
+    </RelativeLayout>
 </RelativeLayout>

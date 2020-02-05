@@ -2083,6 +2083,8 @@ id lastName
 id left
 id light
 id lightRating
+id lightRating1
+id lights_text_view
 id line1
 id line3
 id listMode
@@ -2168,10 +2170,12 @@ id places_autocomplete_try_again_progress
 id preference_divider_view
 id profileFullName
 id progressBar
+id progress_bar
 id progress_circular
 id progress_horizontal
 id radio
 id ratebutton
+id ratingView
 id requestItem
 id right
 id right_icon
@@ -2202,6 +2206,8 @@ id search_plate
 id search_src_text
 id search_voice_btn
 id securityRating
+id securityRating1
+id security_text_view
 id select_dialog_listview
 id selected
 id selected_country_tv
@@ -2265,6 +2271,7 @@ id title_tv
 id toolbar
 id top
 id topPanel
+id total_users_text_view
 id touch_outside
 id transition_current_scene
 id transition_layout_save
@@ -2272,6 +2279,8 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id transportRating
+id transportRating1
+id transport_text_view
 id unchecked
 id uniform
 id unlabeled
@@ -2281,6 +2290,8 @@ id userName
 id view_offset_helper
 id visible
 id walkRating
+id walkRating1
+id walk_text_view
 id wide
 id withText
 id wrap

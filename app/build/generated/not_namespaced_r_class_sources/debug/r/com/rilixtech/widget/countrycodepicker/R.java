@@ -306,11 +306,11 @@ public final class R {
         public static final int flag_holder_lly = 0x7f080084;
         public static final int flag_imv = 0x7f080085;
         public static final int item_country_rly = 0x7f08009d;
-        public static final int no_result_tv = 0x7f0800c5;
-        public static final int preference_divider_view = 0x7f0800f9;
-        public static final int search_edt = 0x7f080117;
-        public static final int selected_country_tv = 0x7f080120;
-        public static final int title_tv = 0x7f080159;
+        public static final int no_result_tv = 0x7f0800c7;
+        public static final int preference_divider_view = 0x7f0800fb;
+        public static final int search_edt = 0x7f08011b;
+        public static final int selected_country_tv = 0x7f080126;
+        public static final int title_tv = 0x7f08015f;
     }
     public static final class layout {
         private layout() {}
