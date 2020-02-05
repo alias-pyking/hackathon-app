@@ -1,0 +1,10 @@
+#Wed Feb 05 07:16:56 IST 2020
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\projects\\Project1-20200205T104829Z-001\\Project1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes2.dex
+base.1=C\:\\projects\\Project1-20200205T104829Z-001\\Project1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.0=C\:\\projects\\Project1-20200205T104829Z-001\\Project1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
