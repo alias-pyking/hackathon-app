@@ -1,4 +1,4 @@
-# WOMEN SAFETY APP | PCBT HACKATHON.4
+# WOMEN SAFETY APP | PCBT HACKATHON 1.0
 
 ## Project Description:
  - By pressing SOS button emergency message will be sent to your emergency contacts with your current location.
