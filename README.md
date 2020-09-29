@@ -6,13 +6,13 @@
  - Your emergency contacts can even track you live location.
  - You can open map (in the app) and search a place by name or pin code and check its safety ratings and add safety ratings to it.
  
-## Technologies Used.
+## Technologies Used:
 - Java. 
 - Firebase.
 
 
 
-### Project screenshots.
+### Project screenshots:
 
 <img align="left" height="700" width="350" src="https://user-images.githubusercontent.com/39399239/94515632-97edb580-0241-11eb-8f56-c270d9d4419f.png">
 <img align="left" height="700" width="350" src="https://user-images.githubusercontent.com/39399239/94515639-9c19d300-0241-11eb-85be-feab96fd23d7.png">
